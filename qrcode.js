@@ -1151,4 +1151,4 @@
     QRCode.CorrectLevel = QRErrorCorrectLevel;
 
     return QRCode;
-})();
+});
